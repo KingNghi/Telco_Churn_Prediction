@@ -78,7 +78,7 @@ The Telco customer churn data module is composed of 3 uploaded files:
 
 The 2 main reasons of Telco boil down to the service behavior and the product quality of Telco.  The three main insights to take away from this project focus on customer engagement and retention strategies. First, short-term contracts can lead to a lack of commitment, as customers often prefer to sample services before committing long-term, highlighting the need for an improved onboarding process and service quality during this trial phase. Second, the attitude and training of personnel significantly influence customer satisfaction and retention; enhancing customer support could lower churn rates. Lastly, the current product offerings, particularly in internet quality, need to be assessed and upgraded to meet customer expectations better, thus increasing the likelihood of customer adoption and loyalty.
 
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
+![Visualization, including a graph of overall trends or snapshot of a dashboard](Image/Category.png)
 
 
 
@@ -86,19 +86,21 @@ The 2 main reasons of Telco boil down to the service behavior and the product qu
 ### Service:
 
 - Contract:  Customers feel less committed on short-term contract such as month-to-month contract. This could be due to the fact that customers want to sample a service first before investing in it in the long term. And during the trial, a number of customers are dissatisfied with the quality of both product and service of Telco.
+![Link](Image/Contract.png)
   
 - Attitude: The attitude of personels from Telco contributes to a large amount of churn decision of customers, making the most satisfaction score is 3.
 
-[Visualization specific to category 1]
+![Visualization specific to category 1](Image/Download.png)
 
 
 ### Product:
 
 The available options are not quality enough to attract customers, leading to the fact that not many customers choose any offers.
+![Link](Image/Offer.png)
   
 Even if they do choose offers, some of those offers don’t live up to their expectation, such as option E. One of the main reasons could derive from the poor quality of internet type, specifically Fiber Optic. 
 
-[Visualization specific to category 2]
+![Visualization specific to category 2](Image/Internet.png)
 
 # Recommendations:
 
